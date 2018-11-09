@@ -1,0 +1,23 @@
+{
+  "name": "personal-pro",
+  "version": "1.0.0",
+  "description": "6/5000 Gèrén xuéxí xiàngmù Personal study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longenzhuo/Personal-Pro.git"
+  },
+  "keywords": [
+    "personal",
+    "study"
+  ],
+  "author": "longenzhuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longenzhuo/Personal-Pro/issues"
+  },
+  "homepage": "https://github.com/longenzhuo/Personal-Pro#readme"
+}
